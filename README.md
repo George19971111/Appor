@@ -1,2 +1,2 @@
-# Appor.github.io
+# Appor
 Appor
